@@ -15,6 +15,7 @@ gunicorn = "*"
 python-dotenv = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
+nose = "*"
 
 [requires]
 python_version = "3.8"
